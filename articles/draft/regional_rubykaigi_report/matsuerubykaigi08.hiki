@@ -1,0 +1,115 @@
+! RegionalRubyKaigi レポート 松江 Ruby 会議 08
+
+!! はじめに
+
+2016年12月17日（土）に松江Ruby会議08が開催されました。今年のテーマはTODOというものでした。今年は合計TODO名の方々に参加いただきました。
+
+* 日時：2016年12月17日（土）11:00〜17:40（懇親会: 18:00〜）
+* 場所：松江テルサ４Ｆ大会議室
+* 主催：Matsue.rb（まつえるびー）
+* 後援：日本Rubyの会
+* 動画による中継(Youtube)：TODO
+* Togetterまとめ：
+* 公式タグ・Twitter：[[#matrk08|https://twitter.com/hashtag/matrk08]]
+
+!! 許可を得る前にプルリクしよう (ゲスト講演)
+
+* 発表者
+** 越川直人氏([[@ppworks|https://twitter.com/ppworks]])
+* 資料
+** https://speakerdeck.com/ppworks/matrk08
+
+[[発表の様子|matsuerubykaigi08/TODO.jpg]]
+
+TODO: @tomo-kさん
+
+!! 昼休憩 (LT)
+
+お昼ごはんを食べながら、きむらしのぶ氏([[@mix_dvd|https://github.com/mix_dvd]])の司会で以下の5件のLTの発表が行われました。
+
+* 僕とRubyコミュニティ
+** 発表者
+*** むらじゅん氏([[@TODO|TODO]])
+* 2006-2016 Ruby, OSS, Thinreports
+** 発表者
+*** 日高 克也氏
+* 俺とMatsue.rb
+** 発表者
+*** 橋本 将氏([[@sho_hashimoto|https://twitter.com/sho_hashimoto]])
+* スプラウト.rbとRails Girls Matsue 3rd
+** 発表者
+*** 松岡 香里氏
+
+[[発表の様子|matsuerubykaigi08/TODO.jpg]]
+
+!! The Power of Storytelling (基調講演)
+
+* 発表者
+** まつもとゆきひろ氏([[@yukihiro_matz|https://twitter.com/yukihiro_matz]])
+
+[[発表の様子|matsuerubykaigi08/TODO.jpg]]
+
+TODO: @inohさん
+
+!! My Favorite Tools (ゲスト講演)
+
+* 発表者
+** 松田明氏([[@a_matsuda|https://twitter.com/a_matsuda]])
+* 資料
+** https://speakerdeck.com/a_matsuda/my-favorite-tools
+
+[[発表の様子|matsuerubykaigi08/TODO.jpg]]
+
+TODO: @sadaさん
+
+!! プログラミングコンテスト結果発表
+
+* 発表者
+** TODO氏([[@TODO|https://twitter.com/TODO]])
+
+[[発表の様子|matsuerubykaigi08/TODO.jpg]]
+
+TODO: @sho-h
+
+!! mrubyで携帯回線IoTデバイスを作ってみた (ライブコーディング)
+
+* 発表者
+** 佐藤氏
+
+TODO: @sadaさん
+
+!! Ruby Quiz
+
+TODO: @nobyukiさん
+
+! 謝辞
+
+TODO
+
+! 著者について
+
+!! 西田 雄也 ([[@nishidayuya|https://twitter.com/nishidayuya]])
+
+プログラマ。
+Redmineは職場ではもちろん、結婚式のタスク管理以降、家族でも使っている。
+2014-12に [[redmine_text_format_converter|https://github.com/nishidayuya/redmine_text_format_converter]] というプラグインを開発し、Redmineの書式をTextileからMarkdownに変換して管理下の全てのプロジェクトをMarkdownへ移行させました。
+
+!! 佐田 明弘 ([[@sada4|https://twitter.com/sada4]])
+
+Matsue.rbにひっそりといるプログラマ。
+
+!! 井上 裕之 ([[@ino_h|https://twitter.com/ino_h]])
+
+Rubyといろんなものをまぜるが好き。
+
+!! 本多 展幸 ([[@nobyuki|https://twitter.com/nobyuki]])
+
+プログラミング教育おじさん。
+
+!! 木村 友哉([[@tomo-k|https://github.com/tomo-k]])
+
+Apple 信者な Rubyist。
+
+!! 橋本 将 ([[@sho_hashimoto|https://twitter.com/sho_hashimoto]])
+
+Matsue.rb の雑用係。[[定例会|http://matsue.rubyist.net/about_us/#matsuerb]]にはだいたい出席してます。
