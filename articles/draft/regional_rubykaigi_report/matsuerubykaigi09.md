@@ -143,9 +143,9 @@ Redmineは職場ではもちろん、結婚式のタスク管理以降、家族�
 
 Matsue.rbにひっそりといるプログラマ。
 
-### 吉岡 隆行 ([@yoshioka_cb](https://twitter.com/yoshioka_cb)
+### 吉岡 隆行 ([@yoshioka_cb](https://twitter.com/yoshioka_cb))
 
-TODO: @yoshioka_cb
+コミュニティー（勉強会）おじさん。松江Ruby会議09 実行委員長。
 
 ### 木村 友哉([@tomo-k](https://github.com/tomo-k))
 
@@ -154,4 +154,3 @@ Apple 信者な Rubyist。
 ### 橋本 将 ([@sho_hashimoto](https://twitter.com/sho_hashimoto))
 
 Matsue.rb の雑用係。[定例会](http://matsue.rubyist.net/about_us/#matsuerb)にはだいたい出席してます。
-
