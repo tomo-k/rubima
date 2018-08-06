@@ -108,11 +108,16 @@ TODO: @sada
 ### Yet Another Ruby Application Framework "Alone"
 
 * 発表者
-  * 東 裕人氏
+  * 東 裕人氏（TOC しまねソフト研究開発センター）
 
-![07_session5_higashi.jpg](TODO.jpg)
+![07_session5_higashi.jpg](./07_session5_higashi.jpg)
 
-TODO: @yoshioka_cb
+東氏がOSSとして公開している「Alone」について活用事例の紹介を含めてお話ししていただきました。
+事例の紹介の際には実際にどのようなコードで動いているかなどの解説もあり、会場の関心を集めていました。
+コードを含めた詳しい説明をしていただいたおかげで、わかりやすく、大変有意義なセッションとなりました。
+
+**「Alone」**
+http://www.ruby-alone.org/
 
 ### Ruby Quiz
 
@@ -143,9 +148,9 @@ Redmineは職場ではもちろん、結婚式のタスク管理以降、家族�
 
 Matsue.rbにひっそりといるプログラマ。
 
-### 吉岡 隆行 ([@yoshioka_cb](https://twitter.com/yoshioka_cb)
+### 吉岡 隆行 ([@yoshioka_cb](https://twitter.com/yoshioka_cb))
 
-TODO: @yoshioka_cb
+コミュニティー（勉強会）おじさん。松江Ruby会議09 実行委員長。
 
 ### 木村 友哉([@tomo-k](https://github.com/tomo-k))
 
@@ -154,4 +159,3 @@ Apple 信者な Rubyist。
 ### 橋本 将 ([@sho_hashimoto](https://twitter.com/sho_hashimoto))
 
 Matsue.rb の雑用係。[定例会](http://matsue.rubyist.net/about_us/#matsuerb)にはだいたい出席してます。
-
