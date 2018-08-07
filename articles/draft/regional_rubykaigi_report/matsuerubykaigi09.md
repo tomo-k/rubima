@@ -26,9 +26,9 @@ tags: 0058 MatsueRubyKaigi09Report
 ### 島根でRubyが使えるようになったキッカケ (ゲスト講演)
 
 * 発表者
-  * 井上浩 氏([@NaCl](https://twitter.com/nacl))
+  * 井上 浩氏([@NaCl](https://twitter.com/nacl))
 
-![02_guest01_inoue.jpg](TODO.jpg)
+![02_guest01_inoue.jpg](./02_guest01_inoue.jpg)
 
 TODO: @sho-h
 
@@ -59,9 +59,14 @@ TODO: @tomo-k
 * 資料
   * [https://speakerdeck.com/gamelinks007/pu-tomastodon](https://speakerdeck.com/gamelinks007/pu-tomastodon)
 
-![04_session2_s_h_.jpg](TODO.jpg)
+![04_session2_s_h_.jpg](./04_session2_s_h_.jpg)
 
-TODO: @sho-h
+山陰で稼働しているMastodonインスタンスの1つであるいわみどんを運営されている平岡氏にMastodonの最近の動向を紹介いただきました。PWA対応のような機能的なお話からじゃんけんに負けたらアカウントが凍結されるというインスタンスのお話まで幅広く紹介いただきました。今後の課題としてアカウントの削除による連合の負荷のような実際に起きうる問題まで把握されていたのが印象的でした。
+
+また、平岡氏が開発したプロダクトを紹介していただきました。以下はその一部ですが、Togetterや氏のスライドに他のものも掲載されていますので是非ご覧ください。
+
+* [Foods Checker](https://github.com/S-H-GAMELINKS/FoodsChecker): Mastodonアカウントでログインできる食品管理サービス
+* [Legion](https://github.com/S-H-GAMELINKS/Legion): Ruby/Tk製のMastodonクライアント
 
 ### LTセッション
 
