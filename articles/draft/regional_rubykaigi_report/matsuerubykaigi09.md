@@ -106,9 +106,14 @@ TODO: @tomo-k
 * 資料
   * [https://speakerdeck.com/hidakatsuya/how-to-maintain-compatibility](https://speakerdeck.com/hidakatsuya/how-to-maintain-compatibility)
 
-![06_session4_hidaka.jpg](TODO.jpg)
+![06_session4_hidaka.jpg](./06_session4_hidaka.jpg)
 
-TODO: @sada
+日高氏が開発しているThinreportsを0.8から0.9にバージョンアップした時の変更を例として「後方互換の保ち方」についてお話いただきました。
+ThinreportsのTLFファイル内に保存されたデータにあるSVGは、0.8まではそのまま文字列として保存されていましたが、開発時に差分が確認しにくいなどの不便な点があり、0.9ではJSON形式で保存するように変更されたとのことでした。
+0.9からはSVGが表現していた箇所も(差分を確認しやすい中間データとして)JSON形式で保存するように変更され、0.9以降で0.8までのTLFファイルを使用する時は、JSON形式に変換してから読み込めるように変更されたとのことでした。
+上記のような後方互換の保ち方を修正箇所のコード付きでご説明いただき、公開したプロダクトをバージョンアップした時にどのような点を気にすべきか共有していただいたセッションでした。あと今後のThinreportsの新機能についてもご紹介いただきました。
+
+* [Thinreports](http://www.thinreports.org/)
 
 ### Yet Another Ruby Application Framework "Alone"
 
