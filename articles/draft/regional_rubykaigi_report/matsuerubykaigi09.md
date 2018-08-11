@@ -48,9 +48,12 @@ TODO: @nishidayuya
 * 資料
   * [https://www.slideshare.net/shohashimoto/redmine1-103850531](https://www.slideshare.net/shohashimoto/redmine1-103850531)
 
-![03_session1_sho-h.jpg](TODO.jpg)
+![03_session1_sho-h.jpg](./03_session1_sho-h.jpg)
 
-TODO: @tomo-k
+面倒なRedmineの管理を少しでも楽にする手段を橋本氏に紹介いただきました。メンテナンスやアップデートの有無の通知を自動化するためのプラグインを自作し、実際に日々の運用の中に組み込むことで更新の有無を知るという部分について「楽にする」ことができたということでした。
+橋本氏が自作されたプラグインについても発表中で紹介いただきましたので、こちらでもご紹介させていただきます。Slackへの通知機能等欲しい機能はまだまだあるのでぜひPRを送ってくださいとのことです。
+
+* [redmin_audit](https://github.com/sho-h/redmine_audit)
 
 ### 僕とMastodon
 
