@@ -89,9 +89,11 @@ rbenv を使ったインストール方法については [OS X で rbenv を使
 - Linux では /etc/paths はありませんので、無視してください
 - **ruby-build を使う** の部分は以下のように読み替えてください (RUBY_CONFIGURE_OPTS の指定が不要です)
 
-    $ rbenv install 1.9.3-p395
-    $ rbenv install 2.0.0-p0
-    $ rbenv shell 1.9.3-p395
+```
+$ rbenv install 1.9.3-p395
+$ rbenv install 2.0.0-p0
+$ rbenv shell 1.9.3-p395
+```
 
 ### エディタ
 
@@ -165,27 +167,9 @@ Web で発行されている Rubyist 向け雑誌です。
 
 ---
 
-**[The Ruby Toolbox](https://www.ruby-toolbox.com/)**
-
-人気のある gem を探すことができます。
-
----
-
 **[RubyDoc.info](http://rubydoc.info/)**
 
 gem の API ドキュメントが見られるサイトです。
-
----
-
-**[Ruby5](https://ruby5.codeschool.com/)**
-
-Ruby 関連の最新情報がテーマの Podcast です。 (英語)
-
----
-
-**[RailsCasts](http://railscasts.com/)**
-
-Rails のスクリーンキャストです。 (英語)
 
 
 ## コミュニティ／勉強会
